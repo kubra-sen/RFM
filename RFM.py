@@ -79,10 +79,9 @@ rfm['segment'] = rfm['RFM_Score'].replace(seg_map, regex=True)
 rfm.head()
 
 # TASK 5
-# I think need_attention, cant_loss and at_Risk segments are important
 
 rfm[rfm['segment'] == 'need_attention'].describe().T
-rfm[rfm['segment'] == 'potential_loyalists'].describe().T
+rfm[rfm['segment'] == 'cant_loose'].describe().T
 rfm[rfm['segment'] == 'at_Risk'].describe().T
 
 Loyals = pd.DataFrame()
