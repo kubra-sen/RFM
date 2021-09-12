@@ -18,4 +18,4 @@ Online_Retail_II dataset contains the invoices of the transactions between 01/12
 **CustomerID**: Unique number of the customer\
 **Country**: Name of the country
 
-![GitHub Logo](![Screenshot_1](https://user-images.githubusercontent.com/31575542/133003864-3b56f15a-75d5-4c47-8651-c43daee98898.jpg)
+[Screenshot_1](https://user-images.githubusercontent.com/31575542/133003864-3b56f15a-75d5-4c47-8651-c43daee98898.jpg)
