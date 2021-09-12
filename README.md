@@ -2,6 +2,7 @@
 
 Business problem is to segment the customers of an e-trade company and define the marketing
 strategies for each segment.
+In this project customers of an UK-based e-trade company are segmented into 10 categories by using of RFM (Recency-Frequency-Monetary) Segmentation technique.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/31575542/133003914-9b6e74fc-d23f-42cd-942b-71291357f81c.jpg)
 
