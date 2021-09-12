@@ -9,11 +9,11 @@ Online_Retail_II dataset contains the invoices of the transactions between 01/12
 
 ## Variables:
 
-**InvoiceNo** : Unique no of the transaction \
+**InvoiceNo** : Unique no of the invoice \
 **StockCode** : Unique code for the product\
 **Description**: Name of the product\
 **Quantity**: Number of product\
-**InvoiceDate**: Date of the transaction\
+**InvoiceDate**: Date of the invoice\
 **UnitPrice**: Price of the invoice (£)\
 **CustomerID**: Unique number of the customer\
 **Country**: Name of the country
