@@ -3,7 +3,7 @@
 Business problem is to segment the customers of an e-trade company and define the marketing
 strategies for each segment.
 
-###Dataset
+# Dataset
 InvoiceNo : Unique no of the transaction \
 StockCode : Unique code for the product\
 Description: Name of the product\
