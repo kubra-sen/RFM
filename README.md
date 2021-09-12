@@ -3,7 +3,8 @@
 Business problem is to segment the customers of an e-trade company and define the marketing
 strategies for each segment.
 
-![Screenshot_1](https://user-images.githubusercontent.com/31575542/133003864-3b56f15a-75d5-4c47-8651-c43daee98898.jpg)
+![Screenshot_1](https://user-images.githubusercontent.com/31575542/133003914-9b6e74fc-d23f-42cd-942b-71291357f81c.jpg)
+
 
 # Dataset
 
