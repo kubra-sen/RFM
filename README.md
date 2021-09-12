@@ -8,7 +8,7 @@ strategies for each segment.
 Online_Retail_II dataset contains the invoices of the transactions between 01/12/2009 - 09/12/2011 of a UK-based e-trade company
 
 **Variables:** \
--InvoiceNo : Unique no of the transaction \
+\item InvoiceNo : Unique no of the transaction \
 -StockCode : Unique code for the product\
 -Description: Name of the product\
 -Quantity: Number of product\
