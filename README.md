@@ -1,4 +1,4 @@
-# RFM
+# RFM Customer Segmentation
 
 Business problem is to segment the customers of an e-trade company and define the marketing
 strategies for each segment.\
